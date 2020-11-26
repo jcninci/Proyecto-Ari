@@ -103,10 +103,12 @@ p {
 
 .col-4 {
     flex-basis: 25%;
-    padding: 10px;
-    min-width: 200px;
-    margin-bottom: 50px;
-    transition: 0.5s;
+    padding: 2px;
+    min-width: 20px;
+    margin-bottom: 10px;
+    transition: 0.s;
+    padding-bottom: 2rem;
+    
 }
 
 .col-4 img {
@@ -136,10 +138,12 @@ p {
 h4 {
     color: #303339;
     font-weight: normal;
+    padding-top: 2rem;
 }
 
 .col-4 p {
-    font-size: 14px;
+    font-size: 32px;
+    
 }
 
 .rating .fa {
@@ -184,9 +188,9 @@ h4 {
 }
 
 .testimonios .col-3 img {
-    width: 100px;
-    margin-top: 20px;
-    border-radius: 50%;
+    width: 175px;
+    margin: 20px;
+    border-radius: 4%;
 }
 
 .testimonios .col-3:hover {
@@ -298,6 +302,8 @@ ul {
 
 .ParrafoRegistro {
     color: black;
+    opacity: 10000;
+    border-radius: 2rem;
 }
 
 
